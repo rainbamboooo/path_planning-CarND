@@ -6,7 +6,7 @@ Self-Driving Car Engineer Nanodegree Program
 The car runs 6.24 miles in my tests without any incidents
 
 ### Reflection on Path Generation
-![](https://github.com/rainbamboooo/path_planning_CarND/raw/master/image/logic.jpg)
+![](https://github.com/rainbamboooo/path_planning_CarND/raw/master/image/logic.png)
 
 ### Simulator.
 You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases).
